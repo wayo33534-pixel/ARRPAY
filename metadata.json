@@ -1,0 +1,6 @@
+{
+  "name": "ARRPAY RECAP",
+  "description": "AI ဖြင့် မြန်မာ Movie Recap အသံဖန်တီးပါ။ Full-stack AI Myanmar movie recap voice-over generator.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
